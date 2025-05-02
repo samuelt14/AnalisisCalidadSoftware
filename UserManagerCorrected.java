@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.logging.Logger;
 
 /**
- * Gestor de usuarios que mantiene una lista en memoria.
+ * Gestor de usuarios que mantiene una lista en memoria
  * Provee operaciones para añadir y listar usuarios, con
  * validaciones y separación de responsabilidades.
  */

@@ -1,4 +1,4 @@
-public class UserManager {
+public class UserManagerOriginal {
     public static String[] users = new String[10];
     public static int userCount = 0;
     
